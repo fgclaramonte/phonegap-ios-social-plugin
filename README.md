@@ -1,6 +1,8 @@
 # Cordova iOS Social Plugin #
 by [Cameron Lerch](http://brightflock.com)
 
+Modified for testing by: Francisco garcía 
+
 ---
 ### [This plugin is hosted by the author](https://github.com/bfcam/phonegap-ios-social-plugin)
 ---
